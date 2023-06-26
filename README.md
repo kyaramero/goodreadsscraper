@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub repo size](https://img.shields.io/github/repo-size/kyaramero/goodreadsscraper?style=for-the-badge)
 
-Aplicação para selecionar e armazenar, em um dataframe, livros de algum gênero escolhido pelo usuário, através do Goodreads — plataforma de catalogação e recomendação.
+Aplicação para selecionar e armazenar, em um dataframe (.csv), livros de algum gênero escolhido pelo usuário, através do Goodreads — plataforma de catalogação e recomendação.
 
 ## 🚀 Como usar
 
